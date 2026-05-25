@@ -27,4 +27,4 @@ Molecular Dynamics (MD), and Machine-Learned Interatomic Potentials (MLIPs).
 
 1. Read the **PDF report** (link above) for the full English introduction
 2. Browse `[MD]ASE_EMT_Cu.ipynb` to see the classical MD exercise
-3. Browse `[MD]ASE_MACE_Cu.ipynb` to see the MLIP (MACE) exercise
+3. Browse `[MD]ASE_MACE_Cu.ipynb` to see the MD (MACE) exercise
