@@ -19,6 +19,7 @@ Molecular Dynamics (MD), and Machine-Learned Interatomic Potentials (MLIPs).
 | `Introduction of DFT, MLIP to MD.md` | Full notes in Chinese — background reading |
 | `MD Exercise.md` | Exercise notes in Chinese |
 | `[MD]ASE_EMT_Cu.ipynb` | Hands-on MD exercise: Cu simulation with EMT potential (ASE) |
+| `MD_ASE_Ar_Phase_Transition.ipynb` | Hands-on MD exercise: Ar phase transition with LJ potential (solid→liquid→gas RDF) |
 | `[MD]ASE_MACE_Cu.ipynb` | Hands-on MD exercise: Cu simulation with MACE (ML potential) |
 
 ---
@@ -27,4 +28,5 @@ Molecular Dynamics (MD), and Machine-Learned Interatomic Potentials (MLIPs).
 
 1. Read the **PDF report** (link above) for the full English introduction
 2. Browse `[MD]ASE_EMT_Cu.ipynb` to see the classical MD exercise
-3. Browse `[MD]ASE_MACE_Cu.ipynb` to see the MD (MACE) exercise
+3. Browse `MD_ASE_Ar_Phase_Transition.ipynb` to see the LJ potential phase transition exercise (complements the EMT limitation discussed in the report)
+4. Browse `[MD]ASE_MACE_Cu.ipynb` to see the MD (MACE) exercise
